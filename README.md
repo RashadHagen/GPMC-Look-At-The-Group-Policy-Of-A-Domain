@@ -1,11 +1,11 @@
-<h1>Group Policy Management (GPMC) – Look At And Edit The Group Policy Of A Domain</h1>
+<h1>Group Policy Management (GPMC) – Look At The Group Policy Of A Domain</h1>
 
 
 <h2 style="font-family: Arial, sans-serif; font-size: 20px; font-weight: bold; margin-top: 24px; margin-bottom: 12px;">
 ⏹️ Description</h2>
 
 <p style="font-family: Georgia, serif; font-size: 16px; margin-top: 12px; margin-bottom: 12px;">
-This project goes over how to look at and edit the Group Policy of a Domain in Group Policy Management. Looking at the Group Policy of a domain within the Group Policy Management (GPMC) tool allows administrators to manage and configure settings for all users and computers within that domain.
+This project goes over how to look at the Group Policy of a Domain in Group Policy Management. Looking at the Group Policy of a domain within the Group Policy Management (GPMC) tool allows administrators to see what the configuration settings are for all users and computers within that domain.
 </b>
 
 
