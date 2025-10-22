@@ -54,7 +54,7 @@ This project goes over how to look at the Group Policy of a Domain using Group P
 
 
 <div style="text-align:center;">
-  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>WAY ONE: Use Search Bar at the bottom of Windows Server.  Type: Server Manager.  Click: Tools (top right).</b></span>  
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>WAY ONE: Use Search Bar at the bottom of Windows Server.  Type: Server Manager.  In Server Manager, Click: Tools (top right).</b></span>  
 <br/>
 
 <table>
